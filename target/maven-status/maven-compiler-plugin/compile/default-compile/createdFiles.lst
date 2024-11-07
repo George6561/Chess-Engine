@@ -1,0 +1,9 @@
+com\george\main\ChessGame.class
+com\george\board\ChessBoard$Player.class
+com\george\images\ChessPiece.class
+com\george\window\ChessWindow.class
+com\george\board\ChessBoard.class
+module-info.class
+com\george\main\Main.class
+com\george\images\ChessImage.class
+com\george\stockfish\StockfishConnector.class

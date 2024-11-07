@@ -1,0 +1,4 @@
+--patch-module
+com.george.chess=_
+--add-reads
+com.george.chess=ALL-UNNAMED
